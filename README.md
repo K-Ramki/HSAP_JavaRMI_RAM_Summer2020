@@ -3,5 +3,9 @@ Hello! My name is Karthik Ramakrishnan, and I am a rising senior at Research Tri
 
 ## Contact Information
 If you have any questions, please email me at karthik.ramki.rdu@gmail.com and I'll try to get back to you within two weeks. The format of your email should be as follows:
-(First and Last Name) - (Category Folder) - (Program Folder) as well as a program and a line number (if you can). I'll put an example:
-John Doe - TwoServersTwoClients - 
+### (First and Last Name) - (Category Folder) - (Program Folder) as well as a program and a line number (if you can). 
+I'll put an example:
+### John Doe - TwoServersTwoClients - VersionTwo_SelfSufficient - FI.java - 9
+(again the "FI.java - 9" is OPTIONAL BUT RECOMMENDED)
+
+If this format is not followed, I cannot respond.
