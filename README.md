@@ -13,7 +13,7 @@ If this format is not followed, I cannot respond.
 ## Contents
 I have included the following:<br/>
 
-[Contact Information] <br/>
+[Contact Information](https://github.com/K-Ramki/HSAP_JavaRMI_RAM_Summer2020/blob/master/README.md#contact-information) <br/>
 TwoComputers<br/>
 ThreeComputers<br/>
 FourComputers<br/>
