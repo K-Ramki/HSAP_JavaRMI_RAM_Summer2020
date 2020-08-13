@@ -5,6 +5,7 @@ Hello! My name is Karthik Ramakrishnan, and I am a rising senior at Research Tri
 I have included the following:<br/>
 
 [Contact Information](https://github.com/K-Ramki/HSAP_JavaRMI_RAM_Summer2020/blob/master/README.md#contact-information) <br/>
+How to make a basic Java RMI program <br/>
 TwoComputers<br/>
 ThreeComputers<br/>
 FourComputers<br/>
@@ -18,3 +19,5 @@ I'll put an example:<br/>
 (again the "- FI.java - 9" is OPTIONAL BUT RECOMMENDED)
 
 If this format is not followed, I cannot respond.
+
+## How to make a basic Java RMI program
