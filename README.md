@@ -21,3 +21,6 @@ I'll put an example:<br/>
 If this format is not followed, I cannot respond.
 
 ## How to make a basic Java RMI program
+I have linked the tutorials that I used to learn Java RMI:
+* [tutorialspoint](https://www.tutorialspoint.com/java_rmi/java_rmi_introduction.htm) <br/>
+* [Oracle](https://docs.oracle.com/javase/tutorial/rmi/) <br/>
