@@ -24,7 +24,7 @@ If this format is not followed, I cannot respond.
 I have linked the tutorials that I used to learn Java RMI:
 * [tutorialspoint](https://www.tutorialspoint.com/java_rmi/java_rmi_introduction.htm) <br/>
 * [Oracle](https://docs.oracle.com/javase/tutorial/rmi/) <br/>
-* [LocateRegistry method](https://docs.oracle.com/javase/7/docs/api/java/rmi/registry/LocateRegistry.html) <br/>
+* [LocateRegistry method (especially important if you want to use multiple computers)](https://docs.oracle.com/javase/7/docs/api/java/rmi/registry/LocateRegistry.html) <br/>
 
 ## TwoComputers
 This program is meant to run on two computers: a server and a client. The server should be initialized first and then the client. <br/>
