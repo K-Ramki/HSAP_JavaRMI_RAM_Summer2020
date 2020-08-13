@@ -13,6 +13,7 @@ If this format is not followed, I cannot respond.
 ## Contents
 I have included the following:<br/>
 
+[Contact Information] <br/>
 TwoComputers<br/>
 ThreeComputers<br/>
 FourComputers<br/>
