@@ -4,8 +4,8 @@ Hello! My name is Karthik Ramakrishnan, and I am a rising senior at Research Tri
 ## Contents
 I have included the following:<br/>
 
-[Contact Information] (https://github.com/K-Ramki/HSAP_JavaRMI_RAM_Summer2020/blob/master/README.md#contact-information) <br/>
-[How to make a basic Java RMI program] (https://github.com/K-Ramki/HSAP_JavaRMI_RAM_Summer2020/blob/master/README.md#how-to-make-a-basic-java-rmi-program) <br/>
+[Contact Information](https://github.com/K-Ramki/HSAP_JavaRMI_RAM_Summer2020/blob/master/README.md#contact-information) <br/>
+[How to make a basic Java RMI program](https://github.com/K-Ramki/HSAP_JavaRMI_RAM_Summer2020/blob/master/README.md#how-to-make-a-basic-java-rmi-program) <br/>
 TwoComputers<br/>
 ThreeComputers<br/>
 FourComputers<br/>
