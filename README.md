@@ -7,9 +7,9 @@ I have included the following:<br/>
 [Contact Information](https://github.com/K-Ramki/HSAP_JavaRMI_RAM_Summer2020#contact-information) <br/>
 [How to make a basic Java RMI program](https://github.com/K-Ramki/HSAP_JavaRMI_RAM_Summer2020#how-to-make-a-basic-java-rmi-program) <br/>
 [TwoComputers](https://github.com/K-Ramki/HSAP_JavaRMI_RAM_Summer2020#twocomputers) <br/>
-ThreeComputers<br/>
+[ThreeComputers](https://github.com/K-Ramki/HSAP_JavaRMI_RAM_Summer2020#threecomputers)<br/>
 FourComputers<br/>
-TwoServersTwoClients<br/>
+TwoServersTwoClients
 
 ## Contact Information
 If you have any questions, please email me at karthik.ramki.rdu@gmail.com and I'll try to get back to you within two weeks. The format of your email should be as follows:<br/>
@@ -24,9 +24,11 @@ If this format is not followed, I cannot respond.
 I have linked the tutorials that I used to learn Java RMI:
 * [tutorialspoint](https://www.tutorialspoint.com/java_rmi/java_rmi_introduction.htm) <br/>
 * [Oracle](https://docs.oracle.com/javase/tutorial/rmi/) <br/>
-* [LocateRegistry method (especially important if you want to use multiple computers)](https://docs.oracle.com/javase/7/docs/api/java/rmi/registry/LocateRegistry.html) <br/>
+* [LocateRegistry method (especially important if you want to use multiple computers)](https://docs.oracle.com/javase/7/docs/api/java/rmi/registry/LocateRegistry.html)
 
 ## TwoComputers
 This program is meant to run on two computers: a server and a client. The server should be initialized first and then the client. <br/>
 
 Note: if a program has a file named FileInputThing.java, do not panic. This file is just for reading .txt files that is populated with user values that will then be added by the server and returned to the client. All you need to do is change the filepath of the .txt file. Do *not* initialize this file.
+
+## ThreeComputers
