@@ -27,9 +27,12 @@ I have linked the tutorials that I used to learn Java RMI:
 * [LocateRegistry method (especially important if you want to use multiple computers)](https://docs.oracle.com/javase/7/docs/api/java/rmi/registry/LocateRegistry.html)
 
 ## TwoComputers
-This program is meant to run on two computers: a server and a client. The server should be initialized first and then the client. <br/>
+The programs in this folder are meant to run on two computers: a server and a client. The server should be initialized first and then the client. <br/>
 
 Note: if a program has a file named FileInputThing.java, do not panic. This file is just for reading .txt files that is populated with user values that will then be added by the server and returned to the client. All you need to do is change the filepath of the .txt file. Do *not* initialize this file.
 
 ## ThreeComputers
-This program is meant to run on three computers: a server, a client, and a RAM. The server should be initialized first, then the RAM, and finally, the client. <br/>
+The programs in this folder are meant to run on three computers: a server, a client, and a RAM. The server should be initialized first, then the RAM, and finally, the client. <br/>
+
+## FourComputers
+The programs in this folder are meant to run on four computers: 
