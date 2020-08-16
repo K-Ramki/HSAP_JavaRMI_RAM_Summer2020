@@ -2,7 +2,7 @@
 Hello! My name is Karthik Ramakrishnan, and I am a rising senior at Research Triangle High School in Durham, North Carolina. This repository contains most of my work (I could not upload some of my preliminary work due to that having over 100 files) from the summer of 2020 working with the RARE (Remote And Reconfigurable Environment) research group at North Carolina A&T State University on a Reconfigurable Resource Allocation Manager (RAM). All of the programs in this repository deal with adding doubles in some way. I was afforded this opportunity as part of the High School Apprenticeship Program (HSAP), a program funded by the Army Research Office (ARO).
 
 ## Contents
-I have included the following:<br/>
+I have included the following: <br/>
 
 [Contact Information](https://github.com/K-Ramki/HSAP_JavaRMI_RAM_Summer2020#contact-information) <br/>
 [How to make a basic Java RMI program](https://github.com/K-Ramki/HSAP_JavaRMI_RAM_Summer2020#how-to-make-a-basic-java-rmi-program) <br/>
