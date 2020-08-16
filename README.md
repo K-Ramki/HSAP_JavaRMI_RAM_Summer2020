@@ -7,8 +7,8 @@ I have included the following:<br/>
 [Contact Information](https://github.com/K-Ramki/HSAP_JavaRMI_RAM_Summer2020#contact-information) <br/>
 [How to make a basic Java RMI program](https://github.com/K-Ramki/HSAP_JavaRMI_RAM_Summer2020#how-to-make-a-basic-java-rmi-program) <br/>
 [TwoComputers](https://github.com/K-Ramki/HSAP_JavaRMI_RAM_Summer2020#twocomputers) <br/>
-[ThreeComputers](https://github.com/K-Ramki/HSAP_JavaRMI_RAM_Summer2020#threecomputers)<br/>
-FourComputers<br/>
+[ThreeComputers](https://github.com/K-Ramki/HSAP_JavaRMI_RAM_Summer2020#threecomputers) <br/>
+[FourComputers](https://github.com/K-Ramki/HSAP_JavaRMI_RAM_Summer2020#fourcomputers) <br/>
 TwoServersTwoClients
 
 ## Contact Information
@@ -29,10 +29,15 @@ I have linked the tutorials that I used to learn Java RMI:
 ## TwoComputers
 The programs in this folder are meant to run on two computers: a server and a client. The server should be initialized first and then the client. <br/>
 
-Note: if a program has a file named FileInputThing.java, do not panic. This file is just for reading .txt files that is populated with user values that will then be added by the server and returned to the client. All you need to do is change the filepath of the .txt file. Do *not* initialize this file.
+Note: if a program has a file named FileInputThing.java, do not panic. This file is just for reading .txt files that are populated with user values that will then be added by the server and returned to the client. All you need to do is change the filepath of the .txt file. Do *not* initialize this file.
 
 ## ThreeComputers
-The programs in this folder are meant to run on three computers: a server, a client, and a RAM. The server should be initialized first, then the RAM, and finally, the client. <br/>
+The programs in this folder are meant to run on three computers: a server, a client, and a RAM. The server should be initialized first, then the RAM, and finally, the client.
 
 ## FourComputers
-The programs in this folder are meant to run on four computers: 
+The programs in this folder are meant to run on four computers: two servers, a client, and a RAM. The servers should be initialized first (the order of server initialization doesn't matter), then the RAM, and finally, the client.
+
+## TwoClientsTwoServers
+The programs in this folder are meant to run on five computers: two servers, two clients, and a RAM. The servers should be initialized first (the order of server initialization doesn't matter), then the RAM, and finally, the clients (the order of client initialization doesn't matter).
+
+Note: if a program has a file named FI.java, do not panic. This file is just for reading .txt files that are populated with user values that will then be added by the server and returned to the client. All you need to do is change the filepath of the .txt file. Do *not* initialize this file.
