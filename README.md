@@ -27,20 +27,20 @@ I have linked the tutorials that I used to learn Java RMI:
 * [LocateRegistry method (especially important if the user wants to use multiple computers)](https://docs.oracle.com/javase/7/docs/api/java/rmi/registry/LocateRegistry.html)
 
 ## TwoComputers
-The programs in this folder are meant to run on two computers: a server and a client. The server should be initialized first and then the client. The files with the "SelfSufficient" label can run on one computer. <br/>
+The programs in this category folder are meant to run on two computers: a server and a client. The server should be initialized first and then the client. The files with the "SelfSufficient" label can run on one computer. <br/>
 
-Note: if a program has a file named FileInputThing.java, do not panic. This file is just for reading .txt files that are populated with user values that will then be added by the server and returned to the client. All you need to do is change the filepath of the .txt file. Do *not* initialize this file.
+Note: if a program folder has a file named FileInputThing.java, do not panic. This file is just for reading .txt files that are populated with user values that will then be added by the server and returned to the client. All you need to do is change the filepath of the .txt file. Do *not* initialize this file.
 
 ## ThreeComputers
-The programs in this folder are meant to run on three computers: a server, a client, and a RAM. The server should be initialized first, then the RAM, and finally, the client. The files with the "SelfSufficient" label can run on one computer.
+The programs in this category folder are meant to run on three computers: a server, a client, and a RAM. The server should be initialized first, then the RAM, and finally, the client. The files with the "SelfSufficient" label can run on one computer.
 
 ## FourComputers
-The programs in this folder are meant to run on four computers: two servers, a client, and a RAM. The servers should be initialized first (the order of server initialization doesn't matter), then the RAM, and finally, the client. The files with the "SelfSufficient" label can run on one computer.
+The programs in this category folder are meant to run on four computers: two servers, a client, and a RAM. The servers should be initialized first (the order of server initialization doesn't matter), then the RAM, and finally, the client. The files with the "SelfSufficient" label can run on one computer.
 
 ## TwoClientsTwoServers
-The programs in this folder are meant to run on five computers: two servers, two clients, and a RAM. The servers should be initialized first (the order of server initialization doesn't matter), then the RAM, and finally, the clients (the order of client initialization doesn't matter). The files with the "SelfSufficient" label can run on one computer.
+The programs in this category folder are meant to run on five computers: two servers, two clients, and a RAM. The servers should be initialized first (the order of server initialization doesn't matter), then the RAM, and finally, the clients (the order of client initialization doesn't matter). The files with the "SelfSufficient" label can run on one computer.
 
 Notes: 
-* The programs in this folder were all programmed to be run on one computer as I did not have access to five separate computers. The user can modify these programs to work on five computers. <br/>
-* If a program has a file named FI.java, do not panic. This file is just for reading .txt files that are populated with user values that will then be added by the server and returned to the client. All you need to do is change the filepath of the .txt file. Do *not* initialize this file. <br/>
+* The programs in this category folder were all programmed to be run on one computer as I did not have access to five separate computers. The user can modify these programs to work on five computers. <br/>
+* If a program folder has a file named FI.java, do not panic. This file is just for reading .txt files that are populated with user values that will then be added by the server and returned to the client. All you need to do is change the filepath of the .txt file. Do *not* initialize this file. <br/>
 * The "VersionOne_SelfSufficient_Bad" folder does not work as intended and as such, the user will not gain anything if they choose to compile and run it.
