@@ -12,7 +12,7 @@ I have included the following: <br/>
 [TwoServersTwoClients](https://github.com/K-Ramki/HSAP_JavaRMI_RAM_Summer2020#twoclientstwoservers)
 
 ## Contact Information
-For any questions, please email me at karthik.ramki.rdu@gmail.com and I'll try to get back within two weeks. The format of the email should be as follows:<br/>
+For any questions, please email me at *karthik.ramki.rdu@gmail.com* and I'll try to get back within two weeks. The format of the email should be as follows:<br/>
 **(First and Last Name) - (Category Folder) - (Program Folder) as well as a program and a line number (if you can).**
 I'll put an example:<br/>
 *John Doe - TwoServersTwoClients - VersionTwo_SelfSufficient - FI.java - 9*
