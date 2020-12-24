@@ -10,6 +10,7 @@ I have included the following: <br/>
 [ThreeComputers](https://github.com/K-Ramki/HSAP_JavaRMI_RAM_Summer2020#threecomputers) <br/>
 [FourComputers](https://github.com/K-Ramki/HSAP_JavaRMI_RAM_Summer2020#fourcomputers) <br/>
 [TwoServersTwoClients](https://github.com/K-Ramki/HSAP_JavaRMI_RAM_Summer2020#twoclientstwoservers)
+[License](https://github.com/K-Ramki/HSAP_JavaRMI_RAM_Summer2020#license)
 
 ## Contact Information
 For any questions, please email me at **karthik.ramki.rdu@gmail.com** and I'll try to get back to you within two weeks. The format of the email should be as follows:<br/>
@@ -44,3 +45,6 @@ Notes:
 * The programs in this category folder were all programmed to be run on one computer as I did not have access to five separate computers. The user can modify these programs to work on five computers. <br/>
 * If a program folder has a file named FI.java, do not panic. This file is just for reading .txt files that are populated with user values that will then be added by the server and returned to the client. All you need to do is change the filepath of the .txt file. Do *not* initialize this file. <br/>
 * The "VersionOne_SelfSufficient_Bad" folder does not work as intended and as such, the user will not gain anything if they choose to compile and run it.
+
+## License
+[MIT] (https://github.com/K-Ramki/HSAP_JavaRMI_RAM_Summer2020/blob/master/LICENSE)
