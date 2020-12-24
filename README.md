@@ -9,7 +9,7 @@ I have included the following: <br/>
 [TwoComputers](https://github.com/K-Ramki/HSAP_JavaRMI_RAM_Summer2020#twocomputers) <br/>
 [ThreeComputers](https://github.com/K-Ramki/HSAP_JavaRMI_RAM_Summer2020#threecomputers) <br/>
 [FourComputers](https://github.com/K-Ramki/HSAP_JavaRMI_RAM_Summer2020#fourcomputers) <br/>
-[TwoServersTwoClients](https://github.com/K-Ramki/HSAP_JavaRMI_RAM_Summer2020#twoclientstwoservers)
+[TwoServersTwoClients](https://github.com/K-Ramki/HSAP_JavaRMI_RAM_Summer2020#twoclientstwoservers) <br/>
 [License](https://github.com/K-Ramki/HSAP_JavaRMI_RAM_Summer2020#license)
 
 ## Contact Information
@@ -47,4 +47,4 @@ Notes:
 * The "VersionOne_SelfSufficient_Bad" folder does not work as intended and as such, the user will not gain anything if they choose to compile and run it.
 
 ## License
-[MIT] (https://github.com/K-Ramki/HSAP_JavaRMI_RAM_Summer2020/blob/master/LICENSE)
+[MIT](https://github.com/K-Ramki/HSAP_JavaRMI_RAM_Summer2020/blob/master/LICENSE)
